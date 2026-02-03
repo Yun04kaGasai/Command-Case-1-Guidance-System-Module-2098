@@ -1,4 +1,6 @@
 # Описание модуля
+<img width="311" height="303" alt="isometry" src="https://github.com/user-attachments/assets/ca2f99fe-208a-4a93-871b-de1c9df015b7" /> <img width="348" height="303" alt="isometry razn" src="https://github.com/user-attachments/assets/30a373a7-178a-4fd0-afdc-92db0764fed3" />
+
 ## Модуль обеспечивает:
 - Двухосевое наведение лазерного луча (±40° по каждой оси с шагом 10°), исходящего из геометрического центра корпуса CubeSat 1U;
 - Приём управляющих команд по радиоканалу (nRF24L01);
